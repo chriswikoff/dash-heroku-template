@@ -8,3 +8,4 @@ numpy>=1.24.3
 pandas>=2.0.3
 requests>=2.31.0
 statsmodels>=0.14.0
+jupyter_dash>=0.4.2
